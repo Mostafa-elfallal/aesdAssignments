@@ -1,0 +1,27 @@
+[submodule "assignment1"]
+	path = assignment1
+	url = https://github.com/cu-ecen-aeld/assignment-1-Mostafa-elfallal-1
+[submodule "assignment2"]
+	path = assignment2
+	url = https://github.com/cu-ecen-aeld/assignment-2-Mostafa-elfallal-1
+[submodule "assignment3"]
+	path = assignment3
+	url = https://github.com/cu-ecen-aeld/assignments-3-and-later-Mostafa-elfallal
+[submodule "assignment4"]
+	path = assignment4
+	url = https://github.com/cu-ecen-aeld/assignment-4-Mostafa-elfallal
+[submodule "assignment5"]
+	path = assignment5
+	url = https://github.com/cu-ecen-aeld/assignment-5-Mostafa-elfallal
+[submodule "assignment6"]
+	path = assignment6
+	url = https://github.com/cu-ecen-aeld/assignment-6-Mostafa-elfallal
+[submodule "assignment7"]
+	path = assignment7
+	url = https://github.com/cu-ecen-aeld/assignment-7-Mostafa-elfallal
+[submodule "assignment8"]
+	path = assignment8
+	url = https://github.com/cu-ecen-aeld/assignment-8-Mostafa-elfallal
+[submodule "assignment9"]
+	path = assignment9
+	url = https://github.com/cu-ecen-aeld/assignment-9-Mostafa-elfallal
